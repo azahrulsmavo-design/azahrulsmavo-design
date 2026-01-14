@@ -1,25 +1,19 @@
-<!-- =========================================
-  GitHub Profile README — azahrulsmavo-design
-  Copy-paste into: azahrulsmavo-design/azahrulsmavo-design README.md
-========================================= -->
-
 <div align="center">
 
-  <!-- Fun typing header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=650&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Azahrul+Ramadhan;Math+Ed+%40+UNY+%E2%86%92+Aspiring+Data%2FAI+Analyst;Founder+%40+Kevin+Book+Store;I+build+SOPs+%26+automation+that+scale" alt="Typing SVG" />
 
   <p>
     <b>he/him</b> · Jakarta, Indonesia
   </p>
 
-  <!-- Quick badges -->
+
   <p>
     <img src="https://img.shields.io/badge/Data%2FAI-Explorer-ff69b4?style=for-the-badge" />
     <img src="https://img.shields.io/badge/SOPs-Scalable%20Systems-6e57e0?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Automation-Workflow%20Builder-00c853?style=for-the-badge" />
   </p>
 
-  <!-- Profile stats badges -->
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=azahrulsmavo-design&style=flat-square&color=blue" alt="profile views" />
     <img src="https://img.shields.io/github/followers/azahrulsmavo-design?label=Followers&style=flat-square" alt="followers" />
@@ -86,18 +80,3 @@ I like designing **scalable SOPs** and building **automation** so teams can move
 - Linktree: https://linktr.ee/azahrul
 - LinkedIn: https://www.linkedin.com/in/muhammad-azahrul-ramadhan-9728bb252
 - Instagram: **@azhrl_dp**
-
----
-
-<div align="center">
-
-  <!-- GitHub stats (fun + visual) -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=azahrulsmavo-design&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azahrulsmavo-design&layout=compact" />
-
-  <br/>
-
-  <!-- Streak -->
-  <img height="160" src="https://streak-stats.demolab.com?user=azahrulsmavo-design" />
-
-</div>
